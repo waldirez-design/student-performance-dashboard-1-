@@ -160,7 +160,7 @@ export default function HomePage() {
                     <div className="bg-primary rounded-full p-3 w-16 h-16 mx-auto mb-4 flex items-center justify-center">
                       <SchoolBuildingIcon className="h-8 w-8 text-primary-foreground" />
                     </div>
-                    <h3 className="text-2xl font-bold text-primary mb-2">Acesso ao Sistema</h3>
+                    <h3 className="text-2xl font-bold text-primary mb-2">Acesso ao  meu Sistema</h3>
                     <p className="text-muted-foreground">Entre com suas credenciais</p>
                   </div>
                   <LoginForm />
