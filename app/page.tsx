@@ -180,21 +180,21 @@ export default function HomePage() {
               <div className="bg-blue-100 rounded-full p-4 w-16 h-16 mx-auto mb-3 flex items-center justify-center">
                 <Users className="h-8 w-8 text-blue-600" />
               </div>
-              <div className="text-3xl font-bold text-primary mb-1">1,247</div>
+              <div className="text-3xl font-bold text-primary mb-1">200</div>
               <div className="text-sm text-muted-foreground">Alunos Ativos</div>
             </div>
             <div className="text-center">
               <div className="bg-purple-100 rounded-full p-4 w-16 h-16 mx-auto mb-3 flex items-center justify-center">
                 <GraduationCapIcon className="h-8 w-8 text-purple-600" />
               </div>
-              <div className="text-3xl font-bold text-primary mb-1">89</div>
+              <div className="text-3xl font-bold text-primary mb-1">22</div>
               <div className="text-sm text-muted-foreground">Professores</div>
             </div>
             <div className="text-center">
               <div className="bg-green-100 rounded-full p-4 w-16 h-16 mx-auto mb-3 flex items-center justify-center">
                 <BookIcon className="h-8 w-8 text-green-600" />
               </div>
-              <div className="text-3xl font-bold text-primary mb-1">24</div>
+              <div className="text-3xl font-bold text-primary mb-1">8</div>
               <div className="text-sm text-muted-foreground">Disciplinas</div>
             </div>
             <div className="text-center">
