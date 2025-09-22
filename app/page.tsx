@@ -194,7 +194,7 @@ export default function HomePage() {
               <div className="bg-green-100 rounded-full p-4 w-16 h-16 mx-auto mb-3 flex items-center justify-center">
                 <BookIcon className="h-8 w-8 text-green-600" />
               </div>
-              <div className="text-3xl font-bold text-primary mb-1">8</div>
+              <div className="text-3xl font-bold text-primary mb-1">15</div>
               <div className="text-sm text-muted-foreground">Disciplinas</div>
             </div>
             <div className="text-center">
