@@ -53,7 +53,7 @@ export function LoginForm() {
   return (
     <Card className="w-full max-w-md mx-auto">
       <CardHeader className="text-center">
-        <CardTitle className="text-2xl font-bold text-blue-700">Sistema Acadêmico</CardTitle>
+        <CardTitle className="text-2xl font-bold text-blue-700">Sistema Pedagogico</CardTitle>
         <CardDescription>Faça login para acessar o sistema</CardDescription>
       </CardHeader>
       <CardContent>
